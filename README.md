@@ -4,7 +4,7 @@ A program that prompts the user for a location, contacts Google Maps API and use
 [![license](https://img.shields.io/github/license/nhnent/tui.editor.svg)](https://github.com/karan28598/Gistly/blob/master/LICENSE)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Using the Google Places API with a Database and Visualizing Data on Google Map
+Using the Google Places API with a Database and Visualizing Data on Google Maps
 
 In this project, we are using the Google geocoding API to clean up some user-entered geographic locations and then placing the data on a Google Map.
 
